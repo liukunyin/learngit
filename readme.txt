@@ -1,18 +1,4 @@
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
 Git has a mutable index called stage.
-
-cd ......
-$git init
-$git add **
-$git commit -m""
-
-$git status
-$git diff ***
-$git log
-$git reflog
-
-$git reset --hard^^^^^^
-$git reset --hard e121ae
-
-
+Creating a new branch is quick AND simple.
