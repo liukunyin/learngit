@@ -11,3 +11,4 @@ $git reflog
 $git reset --hard^^^^^^
 $git reset --hard e121ae
 命令git checkout -- readme.txt意思就是，把readme.txt文件在工作区的修改全部撤销，这里有两种情况：
+用命令git reset HEAD <file>可以把暂存区的修改撤销掉（unstage），重新放回工作区：
